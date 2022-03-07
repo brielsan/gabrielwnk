@@ -16,5 +16,5 @@
   
   
 ------------
-<p align="center">⭐️ From <a href="https://github.com/gabrielwnk">@gabrielwnk</a></p>
+<p align="center">Welcome to <a href="https://github.com/gabrielwnk">my Github</a></p>
  </p>
