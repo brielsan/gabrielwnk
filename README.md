@@ -1,4 +1,4 @@
-<p align:center>
+<p align="center">
   <br>
   <samp>Hello there!
     I'm <a href="https://www.linkedin.com/in/gabriel-sanchez-8aa091226">Gabriel</a>.<samp><img src="https://i.pinimg.com/originals/a9/36/c2/a936c2d173cb4af7a620d41222ab856a.gif" width="35px" />
@@ -18,4 +18,4 @@
   
 ------------
 <p align="center">⭐️ From <a href="https://github.com/gabrielwnk">@gabrielwnk</a></p>
-</div>
+ </p>
