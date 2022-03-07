@@ -1,14 +1,14 @@
 <p style="font-size:150%;>
   <br>
-  <samp>Hello there
+  Hello there
     <br>
       <img src="https://i.pinimg.com/originals/a9/36/c2/a936c2d173cb4af7a620d41222ab856a.gif" width="35px" />
     <br>
-    I'm <a href="https://www.linkedin.com/in/gabriel-sanchez-8aa091226">Gabriel</a>.<samp>
+    I'm <a href="https://www.linkedin.com/in/gabriel-sanchez-8aa091226">Gabriel</a>.
   <br>
     I'm a FullStack Developer from Argentina.
   <br>
-    <samp> 📫 => <a href="mailto:gabrielignaciosanchez99@gmail.com">gabrielignaciosanchez99@gmail.com</a><samp>
+    📫 => <a href="mailto:gabrielignaciosanchez99@gmail.com">gabrielignaciosanchez99@gmail.com</a>
   <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwnk&layout=compact" />
