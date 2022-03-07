@@ -1,8 +1,8 @@
 <p align="center">
   <br>
-  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/gabriel-sanchez-8aa091226">Gabriel</a>.<br> I'm a FullStack Developer from Argentina.<samp>
+  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/gabriel-sanchez-8aa091226">Gabriel</a>.<br> I'm a FullStack Developer from Argentina.
   <br>
-    📫 > <a href="mailto:gabrielignaciosanchez99@gmail.com">gabrielignaciosanchez99@gmail.com</a>
+    📫 > <a href="mailto:gabrielignaciosanchez99@gmail.com">gabrielignaciosanchez99@gmail.com</a><samp>
   <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwnk&layout=compact" />
