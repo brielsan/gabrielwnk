@@ -6,7 +6,6 @@
   <br>
   <br>
   <br>
-  <br>
   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" />
 </p>
 
