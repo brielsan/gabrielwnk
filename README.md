@@ -5,7 +5,7 @@
   <br>
     I'm a FullStack Developer from Argentina.
   <br>
-    <h3> 📫 => <a href="mailto:gabrielignaciosanchez99@gmail.com">gabrielignaciosanchez99@gmail.com</a></h3>
+    <samp> 📫 => <a href="mailto:gabrielignaciosanchez99@gmail.com">gabrielignaciosanchez99@gmail.com</a><samp>
   <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwnk&layout=compact" />
