@@ -3,12 +3,8 @@
   <samp>Hello there. I'm <a href="https://www.linkedin.com/in/gabriel-sanchez-8aa091226">Gabriel</a>.<br> I'm a FullStack Developer from Argentina.<br>
   <br>
   <br>
-    
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwnk&layout=compact" />
-</a>
-    
-  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwnk&layout=compact" />
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" />
 </p>
 
   
