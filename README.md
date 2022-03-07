@@ -10,7 +10,7 @@
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwnk&layout=compact" />
   <br>
-  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" />
+  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="350" />
   <br>
   <br>
 
