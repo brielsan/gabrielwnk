@@ -1,4 +1,4 @@
-<p style="font-size:150%; align="center">
+<p style="font-size:150%;>
   <br>
   <samp>Hello there
     <br>
