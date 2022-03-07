@@ -2,7 +2,7 @@
   <br>
   <samp>Hello there. I'm <a href="https://www.linkedin.com/in/gabriel-sanchez-8aa091226">Gabriel</a>.<br> I'm a FullStack Developer from Argentina.<samp>
   <br>
-  📫 > gabrielignaciosanchez99@gmail.com
+    📫 > <a href="mailto:gabrielignaciosanchez99@gmail.com">gabrielignaciosanchez99@gmail.com</a>
   <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwnk&layout=compact" />
