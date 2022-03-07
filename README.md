@@ -1,6 +1,10 @@
 <p align="center">
   <br>
-  <samp>Hello there.<img src="https://i.pinimg.com/originals/a9/36/c2/a936c2d173cb4af7a620d41222ab856a.gif" width="27px" /> I'm <a href="https://www.linkedin.com/in/gabriel-sanchez-8aa091226">Gabriel</a>.<samp>
+  <samp>Hello there
+    <br>
+      <img src="https://i.pinimg.com/originals/a9/36/c2/a936c2d173cb4af7a620d41222ab856a.gif" width="35px" /> I'm <a href="https://www.linkedin.com/in/gabriel-sanchez-8aa091226">
+    <br>
+      Gabriel</a>.<samp>
   <br>
     I'm a FullStack Developer from Argentina.
   <br>
