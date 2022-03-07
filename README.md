@@ -1,4 +1,5 @@
-<p align="center">
+<div style="text-align:center;>
+<p>
   <br>
   <samp>Hello there 👋🏻
     <br>
@@ -16,7 +17,7 @@
   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" />
   <br>
   <br>
-</p>
+</div>
 
   
   
