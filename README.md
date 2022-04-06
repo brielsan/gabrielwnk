@@ -7,6 +7,7 @@
     I'm a FullStack Developer from Argentina.
   <br>
     Currently, I am working with the following technologies: HTML, CSS, JavaScript, TypeScript,
+    <br>
     React, Redux, Express, Sequelize, Mongoose, PostgreSQL, MongoDB, FireBase.
     📫 => <a href="mailto:gabrielignaciosanchez99@gmail.com">sanchezgabriel3@outlook.com</a>
   <br>
