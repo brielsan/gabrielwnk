@@ -9,6 +9,7 @@
     Currently, I am working with the following technologies: HTML, CSS, JavaScript, TypeScript,
     <br>
     React, Redux, Express, Sequelize, Mongoose, PostgreSQL, MongoDB, FireBase.
+    <br>
     📫 => <a href="mailto:gabrielignaciosanchez99@gmail.com">sanchezgabriel3@outlook.com</a>
   <br>
   <br>
