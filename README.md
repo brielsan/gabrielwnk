@@ -6,7 +6,7 @@
   <br>
     I'm a FullStack Developer from Argentina.
   <br>
-    Currently, I am working with the following technologies: HTML, CSS, JavaScript, TypeScript,
+    Currently, I'm working with the following technologies: HTML, CSS, JavaScript, TypeScript,
     <br>
     React, Redux, Express, Sequelize, Mongoose, PostgreSQL, MongoDB, FireBase.
     <br>
